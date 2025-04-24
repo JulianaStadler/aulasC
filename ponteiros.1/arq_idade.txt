@@ -1,0 +1,9 @@
+-----------IDADE----------
+Ano atual: 2025
+Ano de nascimento: 2004
+Idade: 21
+
+-----------IDADE----------
+Ano atual: 2025
+Ano de nascimento: 2000
+Idade: 25

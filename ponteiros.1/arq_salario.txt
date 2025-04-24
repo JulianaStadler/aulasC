@@ -1,0 +1,8 @@
+------REAJUSTE SALARIAL------
+Salario atual:......R$1000.00
+Salario +20%:.......R$1200.00
+
+------REAJUSTE SALARIAL------
+Salario atual:......R$3000.00
+Salario +20%:.......R$3600.00
+
