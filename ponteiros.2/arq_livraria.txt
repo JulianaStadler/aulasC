@@ -1,0 +1,6 @@
+===================================================== livraria LIVRO LEGAL ===========================================================
+|  Cód.  |                            Titulo                            |    Categoria    |   Nome do autor(a)   |  Preço  | Estoque |
+======================================================================================================================================
+| gfws2  | Como treinar um dragao                                       | aventura        | autor dragao         | R$50.55  | 6      |
+| drf4   | livro da joyce                                               | feliz           | joyce                | R$857.52 | 4      |
+| ds35   | como adestrar seu gato                                       | ensino          | noel da paz          | R$10.99  | 2      |
